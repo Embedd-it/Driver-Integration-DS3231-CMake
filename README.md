@@ -26,9 +26,9 @@ Time is critical in embedded systems. This guide empowers you to integrate the a
 
 We'll begin by utilising the Embedd driver generation capabilities to create a tailored driver for the DS3231 RTC IC.
 
-Quick Video Overview: 
+Quick Video Overview: https://youtu.be/HctFaNf8c-M
 
-[Embedd_platform_recording.mp4](resources/Embedd_platform_recording.mp4)
+
 
 1. **Access the Embedd Platform:**  Go to our driver generation platform at [https://platform.embedd.it/](https://platform.embedd.it/).
 2. **Upload the Datasheet:** Upload your DS3231 datasheet (in PDF format) to the platform. Our system will automatically extract the essential parameters and specifications.
