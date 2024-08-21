@@ -1,4 +1,4 @@
-# Project Example - DS3231/VSCode
+# Generating and integrating driver for RTC (DS3231/VSCode)
 
 ## Intro
 
